@@ -5,7 +5,7 @@
 
 [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download)
 
-Older Version have installers, so you donr have to build from scratch.
+Older Version have installers, so you do not have to build from scratch.
 
 [GOOGLE JAVASCRIPT MAP API KEY](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
