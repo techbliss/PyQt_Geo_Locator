@@ -2,7 +2,6 @@
 import ico
 import json
 import os
-print os.getcwd()
 import PyQt4
 from PyQt4 import QtCore,  QtGui
 import PyQt4.QtWebKit
